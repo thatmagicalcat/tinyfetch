@@ -1,0 +1,12 @@
+[package]
+name = "tiny-fetch"
+version = "0.1.0"
+edition = "2021"
+description = "A fast and simple fetching program."
+repository = "https://github.com/Pranjal-Patel/tinyfetch"
+license = "MIT"
+readme = "README.md"
+
+[[bin]]
+name = "tinyfetch"
+path = "src/main.rs"
